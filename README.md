@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C programming: dereferencing a NULL pointer. The `bug.c` file contains the erroneous code, which leads to undefined behavior.  The `bugSolution.c` file provides a corrected version of the code.
