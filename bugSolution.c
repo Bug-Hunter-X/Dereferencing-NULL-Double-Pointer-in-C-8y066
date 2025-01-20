@@ -1,0 +1,1 @@
+int main() {int x = 10;int *ptr = &x;int **ptr_ptr = &ptr;if (ptr_ptr != NULL && *ptr_ptr != NULL) {*ptr = 20;}return 0;} 
